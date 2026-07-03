@@ -11,6 +11,6 @@ require (
 
 require (
 	github.com/libp2p/go-reuseport v0.4.0 // indirect
-	golang.org/x/net v0.51.0 // indirect
-	golang.org/x/sys v0.41.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
